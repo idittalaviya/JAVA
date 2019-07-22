@@ -1,0 +1,5 @@
+w.a.p to vaildate email add.
+gtu enrollment no.
+w.a.p. to sort a arry elements in dec. 
+w.a.p. to check whether given to two strings are anagram or not
+w.a.p. to extrct content of html string
